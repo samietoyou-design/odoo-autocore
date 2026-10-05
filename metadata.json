@@ -1,0 +1,6 @@
+{
+  "name": "Odoo AutoCore ERP - سامانه جامع مدیریت خدمات خودرو و پروژه‌های مشتریان",
+  "description": "سیستم جامع ERP مبتنی بر معماری اودو ۱۹ برای مدیریت ۹۸ ماژول تخصصی در ۸ دامنه خدمات خودرویی، عملیات کارگاهی، انبارداری، خرید، مالی، فرانچایز، پاسپورت سلامت خودرو و BI هوشمند.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
